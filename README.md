@@ -1,6 +1,8 @@
 # amazon-best-sellers-analysis-basic-project
 Exploratory data analysis of Amazon bestselling books using Python and Pandas.
 
+Amazon Best Sellers Analysis
+
 Overview
 
 A beginner-friendly data analysis project using Python and Pandas to explore Amazon's bestselling books from 2009 to 2019.
@@ -42,3 +44,19 @@ Price
 Year
 
 Genre
+
+The dataset contains 550 records in its original form. Please refer to the dataset's source and license before redistributing it.
+
+How to Run
+
+Clone or download this repository.
+
+Install dependencies:
+
+python -m pip install -r requirements.txt
+
+Place bestsellers.csv in the project folder.
+
+Run:
+
+python main.py
