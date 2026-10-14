@@ -25,3 +25,20 @@ Pandas
 
 CSV
 
+Dataset
+
+The dataset contains information about bestselling books, including:
+
+Book title
+
+Author
+
+User rating
+
+Number of reviews
+
+Price
+
+Year
+
+Genre
