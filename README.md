@@ -60,3 +60,15 @@ Place bestsellers.csv in the project folder.
 Run:
 
 python main.py
+
+Analysis Performed
+
+Dataset exploration using head(), shape, columns, and describe().
+
+Duplicate removal and column renaming.
+
+Author popularity analysis using value_counts().
+
+Average ratings by genre using groupby() and mean().
+
+Export of the top 10 authors and genre rating summaries.
