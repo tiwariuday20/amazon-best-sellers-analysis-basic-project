@@ -72,3 +72,17 @@ Author popularity analysis using value_counts().
 Average ratings by genre using groupby() and mean().
 
 Export of the top 10 authors and genre rating summaries.
+
+Outputs
+
+top_authors.csv
+
+avg_rating_by_genre.csv
+
+Learning Outcomes
+
+This project demonstrates foundational skills in data loading, data cleaning, aggregation, descriptive statistics, and exporting results with Pandas.
+
+Disclaimer
+
+This is an educational data analysis project. The results describe the supplied historical dataset and do not represent current Amazon bestseller rankings.
