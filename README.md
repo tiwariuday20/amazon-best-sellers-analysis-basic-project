@@ -16,3 +16,12 @@ Identify authors with the most bestselling-book entries.
 Compare average reader ratings across Fiction and Non Fiction.
 
 Export analysis results to CSV files.
+
+Technologies Used
+
+Python
+
+Pandas
+
+CSV
+
